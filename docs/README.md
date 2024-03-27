@@ -1,6 +1,6 @@
 ## Considerações iniciais
 
-- [Dataset no GitHub](https://github.com/digitalinnovationone/netflix-dataset/tree/main/raw)
+- [Dataset no GitHub](https://github.com/digitalinnovationone/netflix-dataset/tree/main/raw): os dados são fictícios da empresa Netflix.
 
 - Pacotes utilizados: 
   pip install pandas
