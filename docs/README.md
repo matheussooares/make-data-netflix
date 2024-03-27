@@ -30,8 +30,8 @@
 
 A técnica utilizada foi a ETL (extrair, transformar e carregar), prezanda pela confiabilidade e rastreabilidade dos dados.
 
-Os dados brutos estão localizados na pasta [raw](make-data-netflix/src/data/raw/), e foram extraidos do [Dataset no GitHub](https://github.com/digitalinnovationone/netflix-dataset/tree/main/raw).
+Os dados brutos estão localizados na pasta [raw](https://github.com/matheussooares/make-data-netflix/tree/main/src/data/raw), e foram extraidos do [Dataset no GitHub](https://github.com/digitalinnovationone/netflix-dataset/tree/main/raw).
 
 Para a transformação dos dados brutos é sugerido colocar todas as tabelas em um único aquivo (.xlsx). A adição das colunas "location" e "file_name" é para validar a rastreabilidade dos dados.
 
-Por fim, os dados são carregados na [ready](src/data/ready) e estão disponíveis para a análise de **BI**.
+Por fim, os dados são carregados na [ready]([src/data/ready](https://github.com/matheussooares/make-data-netflix/tree/main/src/data/ready)) e estão disponíveis para a análise de **BI**.
