@@ -35,3 +35,6 @@ Os dados brutos estão localizados na pasta [raw](https://github.com/matheussooa
 Para a transformação dos dados brutos é sugerido colocar todas as tabelas em um único aquivo (.xlsx). A adição das colunas "location" e "file_name" é para validar a rastreabilidade dos dados.
 
 Por fim, os dados são carregados na [ready]([src/data/ready](https://github.com/matheussooares/make-data-netflix/tree/main/src/data/ready)) e estão disponíveis para a análise de **BI**.
+
+## Referências 
+1. [ETL Com Python - Como Manipular Grandes Massas de Dados com Python](https://www.youtube.com/watch?v=R0rMMDOuXEQ&t=2183s)
